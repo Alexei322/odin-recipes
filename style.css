@@ -1,0 +1,25 @@
+
+*{
+    background-color: lightcoral;
+}
+.Main-heading {
+    font-size: 36px;
+    text-align: center;
+    color: black;
+}
+
+.List {
+    text-align: center;
+}
+
+.List ul,
+.List ol {
+    display: inline-block;
+
+}
+
+.List li {
+    padding-right: 40px;
+    font-size: 24px;
+}
+
